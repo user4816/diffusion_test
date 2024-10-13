@@ -1,2 +1,2 @@
-# courcework project (1)
-# diffusion with Signal Integrity
+courcework project (1)
+diffusion with Signal Integrity
