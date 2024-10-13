@@ -1,1 +1,2 @@
-# diffusion_test
+# courcework project (1)
+# diffusion with Signal Integrity
